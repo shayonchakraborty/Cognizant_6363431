@@ -1,0 +1,64 @@
+## Ignore build and debug folders
+bin/
+obj/
+out/
+TestResults/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio files
+.vscode/
+.vs/
+
+## NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+
+## Rider files
+.idea/
+
+## Auto-generated files
+*.log
+*.tlog
+*.cache
+*.dbmdl
+*.bak
+*.tmp
+
+## Dotnet specific
+*.deps.json
+*.runtimeconfig.json
+*.runtimeconfig.dev.json
+*.dll
+*.pdb
+*.exe
+
+## OS-specific
+.DS_Store
+Thumbs.db
+
+## Logs and local settings
+*.log
+*.env
+*.local
+.env.*
+
+## Global JSON (optional if not used for version locking)
+global.json
+
+## Publish folder
+publish/
+
+## Configuration transforms
+*.Transform.*
+
+## Others
+_ReSharper*/
