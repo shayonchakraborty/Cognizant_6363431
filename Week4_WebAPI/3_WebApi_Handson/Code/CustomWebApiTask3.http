@@ -1,0 +1,6 @@
+@CustomWebApiTask3_HostAddress = http://localhost:5265
+
+GET {{CustomWebApiTask3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

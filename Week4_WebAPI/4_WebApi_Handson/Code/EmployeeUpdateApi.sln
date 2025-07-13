@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeUpdateApi", "EmployeeUpdateApi.csproj", "{4C6CFB85-0D76-1DA6-E0C7-1296362D5062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C6CFB85-0D76-1DA6-E0C7-1296362D5062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6CFB85-0D76-1DA6-E0C7-1296362D5062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6CFB85-0D76-1DA6-E0C7-1296362D5062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6CFB85-0D76-1DA6-E0C7-1296362D5062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F980C81-0EF1-40E9-9CC6-2C1F0866FF8C}
+	EndGlobalSection
+EndGlobal
